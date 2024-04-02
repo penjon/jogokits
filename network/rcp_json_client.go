@@ -2,7 +2,7 @@ package network
 
 import (
 	"fmt"
-	"git.ingcreations.com/ingcreations-golang/gokits/logs"
+	"github.com/penjon/jogokits/logs"
 	"net"
 	"net/rpc"
 	"net/rpc/jsonrpc"

@@ -2,7 +2,7 @@ package logs
 
 import (
 	"fmt"
-	"git.ingcreations.com/ingcreations-golang/gokits/utils"
+	"github.com/penjon/jogokits/utils"
 )
 
 type LogFactory struct {

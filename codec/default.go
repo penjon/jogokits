@@ -2,7 +2,7 @@ package codec
 
 import (
 	"bytes"
-	"git.ingcreations.com/ingcreations-golang/gokits/logs"
+	"github.com/penjon/jogokits/logs"
 	"net"
 )
 

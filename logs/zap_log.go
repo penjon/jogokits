@@ -2,7 +2,7 @@ package logs
 
 import (
 	"fmt"
-	"git.ingcreations.com/ingcreations-golang/gokits/utils"
+	"github.com/penjon/jogokits/utils"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"

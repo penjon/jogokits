@@ -1,4 +1,4 @@
-module git.ingcreations.com/ingcreations-golang/gokits
+module github.com/penjon/jogokits
 
 go 1.19
 

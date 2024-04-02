@@ -2,8 +2,8 @@ package network
 
 import (
 	"fmt"
-	"git.ingcreations.com/ingcreations-golang/gokits/codec"
-	"git.ingcreations.com/ingcreations-golang/gokits/utils"
+	"github.com/penjon/jogokits/codec"
+	"github.com/penjon/jogokits/utils"
 	"testing"
 )
 

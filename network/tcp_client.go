@@ -1,7 +1,7 @@
 package network
 
 import (
-	"git.ingcreations.com/ingcreations-golang/gokits/codec"
+	"github.com/penjon/jogokits/codec"
 	"net"
 )
 

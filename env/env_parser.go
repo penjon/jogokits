@@ -3,7 +3,7 @@ package env
 import (
 	"errors"
 	"fmt"
-	"git.ingcreations.com/ingcreations-golang/gokits/utils"
+	"github.com/penjon/jogokits/utils"
 	"os"
 	"reflect"
 	"strings"
